@@ -1,0 +1,6 @@
+{
+  "url-backend": "127.0.0.1",
+  "port": 9999,
+  "data-db-connection": "mongodb+srv://ss5gc4team5:6Kgrlbk7lN8QY2bL@clusterteam5.m2noqns.mongodb.net/votaciones2022?retryWrites=true&w=majority",
+  "name-db": "votaciones2022"
+}
